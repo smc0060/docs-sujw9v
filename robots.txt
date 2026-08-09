@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-pif7y4.trans88.space/sitemap.xml
